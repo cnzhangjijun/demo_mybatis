@@ -34,7 +34,7 @@ public class AppController {
     @PutMapping
     public String queryallstudent(Student std){
 
-        System.out.println("this is 2branch hello");
+        System.out.println("this is 2branch ss hello");
 
         //return std.toString();
         return "";

@@ -35,8 +35,6 @@ public class AppController {
     public String queryallstudent(Student std){
 
         System.out.println("master branch hello");
-
-        //return std.toString();
         return "";
 
     }

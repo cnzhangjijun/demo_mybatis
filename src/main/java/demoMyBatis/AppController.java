@@ -35,6 +35,7 @@ public class AppController {
     public String queryallstudent(Student std){
 
         System.out.println("master branch hello");
+        System.out.println("this is 2branch ss hello");
         return "";
 
     }

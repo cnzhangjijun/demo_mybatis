@@ -37,6 +37,7 @@ public class AppController {
         System.out.println("master branch hello");
         System.out.println("this is 2branch ss hello");
         System.out.println("push test");
+        System.out.println("pull test");
         return "";
 
     }
